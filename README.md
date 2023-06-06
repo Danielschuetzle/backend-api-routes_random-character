@@ -1,49 +1,20 @@
-Random Character Generator API 🎭
+# 🎭 Random Character Generator API 
 
-Welcome to the Random Character Generator API project! This project provides an API that generates random character information.
-Table of Contents 📚
+Welcome to the Random Character Generator API project! 🎉 This project provides an API that generates random character information.
 
-    Technologies
-    Installation
-    Usage
+## 📚 Table of Contents 
 
-Technologies 💻
+1. [Technologies 💻](#technologies)
+2. [Installation 🔧](#installation)
+3. [Usage 🚀](#usage)
+
+## 💻 Technologies 
 
 This project is built with:
 
-    Next.js
-    Chance
-    SWR
-
-Installation 📥
-
-Follow these steps to install and run the project:
-
-    Clone this repository to your local machine:
-
-bash
-
-git clone https://github.com/Danielschuetzle/backend-api-routes_random-character.git
-
-    Navigate into the project directory:
-
-bash
-
-cd yourrepositoryname
-
-    Install the dependencies:
-
-bash
-
-npm install
-
-    Start the local development server:
-
-bash
-
-npm run dev
-
-    Open your browser and navigate to http://localhost:3000 to view the application.
+- [Next.js](https://nextjs.org/)
+- [Chance](https://chancejs.com/)
+- [SWR](https://swr.vercel.app/)
 
 Usage 🚀
 
