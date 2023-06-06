@@ -2,12 +2,6 @@
 
 Welcome to the Random Character Generator API project! 🎉 This project provides an API that generates random character information.
 
-## 📚 Table of Contents 
-
-1. [Technologies 💻](#technologies)
-2. [Installation 🔧](#installation)
-3. [Usage 🚀](#usage)
-
 ## 💻 Technologies 
 
 This project is built with:
